@@ -4,7 +4,7 @@
 This project explores Netflix’s catalog of **movies** using Python and performs a full **Exploratory Data Analysis (EDA)**.  
 It is designed as a practical portfolio project to demonstrate data cleaning, visualization, and insight generation skills.
 
-Dataset: *Netflix Movies & TV Shows* (public dataset used by DataCamp).
+Dataset: *Netflix Movies & TV Shows* (public dataset from kaggle).
 
 ---
 
