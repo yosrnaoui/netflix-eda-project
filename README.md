@@ -133,5 +133,5 @@ Cluster movies by genre/duration
 Predict movie rating or popularity
 
 Interactive visualizations (Plotly / Dash)
-## 📁 Project Structure
+
 
